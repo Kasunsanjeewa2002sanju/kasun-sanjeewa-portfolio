@@ -1,6 +1,6 @@
 import { ArrowDown, Github, Linkedin, Mail, Phone } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import kasunProfile from '@/assets/kasun-profile.jpg';
+import kasunProfile from '@/assets/kasun-profile-new.jpg';
 
 const Hero = () => {
   const scrollToAbout = () => {
