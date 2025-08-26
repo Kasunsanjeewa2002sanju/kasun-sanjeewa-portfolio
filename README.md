@@ -1,73 +1,63 @@
-# Welcome to your Lovable project
+# Kasun Sanjeewa Portfolio
 
-## Project info
+![Portfolio Banner](https://via.placeholder.com/1200x300?text=Kasun+Sanjeewa+Portfolio)
 
-**URL**: https://lovable.dev/projects/a27490f8-95e0-40f5-ba92-7bbd68870ef7
+## About Me
+Hi! I’m **Kasun Sanjeewa**, a passionate **Software Engineer & Developer** based in Sri Lanka. I specialize in building **web and mobile applications** with practical solutions and user-friendly design. I am constantly learning and exploring new technologies to deliver high-quality projects.
 
-## How can I edit this code?
+- 🎓 **Education:** BSc in Software Engineering (or your current status)  
+- 💼 **Roles:** Full-stack Developer | Mobile App Developer | React.js & Kotlin Enthusiast  
+- 🌱 **Currently learning:** Advanced .NET, Cloud Technologies, AI/ML basics  
+- 📫 **Contact:** kasunsanjeewa@example.com | [LinkedIn](https://www.linkedin.com/in/kasun-sanjeewa-0b4152277/) | [GitHub]([your-github](https://github.com/Kasunsanjeewa2002sanju))
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## Portfolio Projects
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a27490f8-95e0-40f5-ba92-7bbd68870ef7) and start prompting.
+### 1. Personal Finance Tracker (Kotlin)
+- Mobile application for tracking expenses and incomes.
+- **Features:** User authentication, transaction history, analytics dashboard.
+- [GitHub Repository]((https://github.com/Kasunsanjeewa2002sanju/Trackly-Mobile-App))
 
-Changes made via Lovable will be committed automatically to this repo.
+### 2. Agro Farming App 
+- Connects farmers directly to customers.
+- **Features:** Real-time chat, product listing, order management.
+- [GitHub Repository]()
 
-**Use your preferred IDE**
+### 3. Online Shelf Counting System (React.js)
+- Helps supermarkets manage shelves efficiently.
+- **Features:** Product search, aisle navigation, out-of-stock suggestions.
+- [GitHub Repository](https://github.com/Kasunsanjeewa2002sanju/Aisle-Navigation-Backend)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## Skills
 
-Follow these steps:
+- **Languages:** Java, Kotlin, C#, SQL, JavaScript, TypeScript  
+- **Frameworks & Tools:** React.js, ASP.NET MVC, Node.js, Firebase, Room DB  
+- **Web & Mobile:** HTML5, CSS3, REST APIs, Mobile App Development  
+- **Other Skills:** Git, GitHub, Agile Development, Cloud Deployment (GitHub Actions, Azure)  
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## Certifications
+- **[Certification Name]** – Platform/Institute  
+  *Short description if needed*
 
-# Step 3: Install the necessary dependencies.
-npm i
+- **[Certification Name]** – Platform/Institute  
+  *Short description if needed*
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+*(Add more certifications as needed)*
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## Contact Me
+I’m always open to **collaborations and opportunities**. Reach out to me via:  
 
-**Use GitHub Codespaces**
+- 📧 Email: kasunsanjeewa@example.com  
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kasun-sanjeewa-0b4152277/)  
+- 🐱 GitHub: [GitHub]([your-github](https://github.com/Kasunsanjeewa2002sanju))  
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/a27490f8-95e0-40f5-ba92-7bbd68870ef7) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+*Thank you for visiting my portfolio!*
