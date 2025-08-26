@@ -87,19 +87,19 @@ const Contact = () => {
     {
       icon: <Github className="h-5 w-5" />,
       name: 'GitHub',
-      url: 'https://github.com/kasun',
+      url: 'https://github.com/Kasunsanjeewa2002sanju',
       color: 'hover:text-gray-600',
     },
     {
       icon: <Linkedin className="h-5 w-5" />,
       name: 'LinkedIn',
-      url: 'https://linkedin.com/in/kasun',
+      url: 'https://www.linkedin.com/in/ kasun-sanjeewa-0b4152277',
       color: 'hover:text-blue-600',
     },
     {
       icon: <Instagram className="h-5 w-5" />,
       name: 'Instagram',
-      url: 'https://instagram.com/kasun',
+      url: 'https://www.instagram.com/_kasun__sanjeewa__',
       color: 'hover:text-pink-600',
     },
   ];

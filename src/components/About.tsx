@@ -30,23 +30,24 @@ const About = () => {
   const experience = [
     {
       title: 'Leadership Experience',
-      subtitle: 'AIESEC Member',
-      description: 'Active involvement in AIESEC, developing leadership skills and organizing international exchange programs.',
+      subtitle: 'AIESEC in SLIIT Kandy UNI',
+      description: 'Led the Outgoing Global Volunteer (OGV) program, managing international volunteer opportunities and fostering cross-cultural exchanges. As Marketing Team Leader, strategized and executed campaigns to increase engagement and brand visibility, enhancing the organization’s impact on campus and beyond.',
       icon: <Users className="h-6 w-6" />,
     },
     {
       title: 'University Activities',
-      subtitle: 'Club Involvement',
-      description: 'Participated in various university clubs, enhancing teamwork and collaborative skills.',
+      subtitle: 'Adventure Club Co-Founder',
+      description: 'Co-founded and led the University Adventure Club, organizing outdoor events and team-building activities to promote leadership, collaboration, and personal growth among students.',
       icon: <Code className="h-6 w-6" />,
     },
+
   ];
 
   return (
     <section id="about" className="py-20 bg-muted/30">
       <div className="container mx-auto px-6">
         <div className="text-center mb-16">
-          <p className="text-primary font-medium mb-4">HELLO</p>
+          <p className="text-primary font-medium mb-4">About Me</p>
           <h2 className="text-4xl md:text-5xl font-bold mb-6">I'M KASUN SANJEEWA</h2>
           <div className="max-w-3xl mx-auto">
             <p className="text-muted-foreground text-lg leading-relaxed mb-6">
@@ -56,7 +57,7 @@ const About = () => {
             </p>
             <p className="text-muted-foreground text-lg leading-relaxed">
               Currently pursuing my BSc (Hons) in Information Technology with specialization in Software Engineering,
-              I combine academic knowledge with practical experience to deliver high-quality solutions.
+              I combine academic knowledge with practical experience to deliver high quality solutions.
             </p>
           </div>
         </div>
@@ -125,13 +126,13 @@ const About = () => {
         {/* Bottom section with process */}
         <div className="mt-20 text-center">
           <h3 className="text-3xl font-bold mb-12">
-            <span className="text-gradient">KETCH</span> — DESIGN — DEVELOPMENT
+            <span className="text-gradient">SKETCH</span> — DESIGN — DEVELOPMENT
           </h3>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            From initial concept sketching to final deployment, I follow a comprehensive development process 
-            that ensures every project meets the highest standards of quality and user experience.
+            Every successful product begins with a clear vision. I transform ideas into strategic designs and bring them to life through clean, scalable code. My process ensures a seamless transition from concept to launch, with a strong emphasis on performance, usability, and long-term maintainability.
           </p>
         </div>
+
       </div>
     </section>
   );

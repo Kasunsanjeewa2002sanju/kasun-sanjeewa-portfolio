@@ -5,26 +5,47 @@ import { Button } from '@/components/ui/button';
 const Services = () => {
   const services = [
     {
-      icon: <Palette className="h-8 w-8" />,
-      title: 'UI/UX Design',
-      description: 'Creating intuitive and visually appealing user interfaces with modern design principles. Focus on user experience, accessibility, and responsive design across all devices.',
-      features: ['User Research', 'Wireframing', 'Prototyping', 'Responsive Design', 'Design Systems'],
-      color: 'from-blue-500 to-cyan-500',
-    },
-    {
-      icon: <Globe className="h-8 w-8" />,
-      title: 'Web Development',
-      description: 'Full-stack web development using modern technologies like React.js, Node.js, and cloud services. Building scalable, secure, and performance-optimized web applications.',
-      features: ['Frontend Development', 'Backend APIs', 'Database Design', 'Cloud Deployment', 'Performance Optimization'],
-      color: 'from-primary to-primary-glow',
-    },
-    {
-      icon: <Smartphone className="h-8 w-8" />,
-      title: 'Mobile App Development',
-      description: 'Native Android development using Kotlin and cross-platform solutions. Creating mobile experiences that engage users and drive business growth.',
-      features: ['Android Development', 'Kotlin Programming', 'Cross-platform Apps', 'App Store Optimization', 'Mobile UI/UX'],
-      color: 'from-green-500 to-emerald-500',
-    },
+  icon: <Palette className="h-8 w-8" />,
+  title: 'UI/UX Design',
+  description:
+    'Designing clean, user-focused interfaces with a balance of aesthetics and usability. I ensure responsive, accessible layouts that enhance user interaction across all platforms.',
+  features: [
+    'Wireframing',
+    'Prototyping',
+    'Responsive Design',
+    'Design Systems',
+  ],
+  color: 'from-blue-500 to-cyan-500',
+},
+{
+  icon: <Globe className="h-8 w-8" />,
+  title: 'Web Development',
+  description:
+    'Building modern full-stack web applications using React.js, Node.js, and scalable backend solutions. I focus on performance, security, and clean code architecture.',
+  features: [
+    'Frontend Development',
+    'Backend APIs',
+    'Database Design',
+    'Cloud Deployment',
+    'Performance Optimization',
+  ],
+  color: 'from-primary to-primary-glow',
+},
+{
+  icon: <Smartphone className="h-8 w-8" />,
+  title: 'Mobile App Development',
+  description:
+    'Developing native Android apps with Kotlin and cross-platform solutions tailored for performance and seamless user experience across devices.',
+  features: [
+    'Android Development',
+    'Kotlin Programming',
+    'Cross-platform Apps',
+    'App Store Optimization',
+    'Mobile UI/UX',
+  ],
+  color: 'from-green-500 to-emerald-500',
+},
+
   ];
 
   const scrollToContact = () => {
@@ -41,8 +62,7 @@ const Services = () => {
           <p className="text-primary font-medium mb-4">SERVICES</p>
           <h2 className="text-4xl md:text-5xl font-bold mb-6">What I Offer</h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            Comprehensive digital solutions tailored to your needs. From concept to deployment, 
-            I deliver high-quality services that drive results.
+            I offer end-to-end software development services that combine creativity, technical expertise, and modern design principles. Whether it’s a responsive web app, a scalable backend, or a feature-rich mobile application, I build solutions that are tailored to meet your business goals and user needs.
           </p>
         </div>
 
