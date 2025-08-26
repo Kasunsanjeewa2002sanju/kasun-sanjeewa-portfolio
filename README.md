@@ -12,25 +12,6 @@ Hi! I’m **Kasun Sanjeewa**, a passionate **Software Engineer & Developer** bas
 
 ---
 
-## Portfolio Projects
-
-### 1. Personal Finance Tracker (Kotlin)
-- Mobile application for tracking expenses and incomes.
-- **Features:** User authentication, transaction history, analytics dashboard.
-- [GitHub Repository]((https://github.com/Kasunsanjeewa2002sanju/Trackly-Mobile-App))
-
-### 2. Agro Farming App 
-- Connects farmers directly to customers.
-- **Features:** Real-time chat, product listing, order management.
-- [GitHub Repository]()
-
-### 3. Online Shelf Counting System (React.js)
-- Helps supermarkets manage shelves efficiently.
-- **Features:** Product search, aisle navigation, out-of-stock suggestions.
-- [GitHub Repository](https://github.com/Kasunsanjeewa2002sanju/Aisle-Navigation-Backend)
-
----
-
 ## Skills
 
 - **Languages:** Java, Kotlin, C#, SQL, JavaScript, TypeScript  
@@ -40,16 +21,6 @@ Hi! I’m **Kasun Sanjeewa**, a passionate **Software Engineer & Developer** bas
 
 ---
 
-## Certifications
-- **[Certification Name]** – Platform/Institute  
-  *Short description if needed*
-
-- **[Certification Name]** – Platform/Institute  
-  *Short description if needed*
-
-*(Add more certifications as needed)*
-
----
 
 ## Contact Me
 I’m always open to **collaborations and opportunities**. Reach out to me via:  
